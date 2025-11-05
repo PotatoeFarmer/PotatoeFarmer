@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Aops Intermediate Algebra
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 I'm an amateur at coding and github
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: In Jesus there is no sorrow
 - ✈ I play Axis and Allies
